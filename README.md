@@ -1,4 +1,9 @@
 ## 👋 Hi there! I'm Perplexed.
+<!-- <br>
+
+### 📝 Latest Posts: -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br>
 
@@ -20,13 +25,15 @@
 
 * <img align="left" alt="Firebase" width="26px" src="https://e7.pngegg.com/pngimages/876/977/png-clipart-yellow-folder-firebase-cloud-messaging-computer-icons-google-cloud-messaging-angularjs-github-angle-triangle-thumbnail.png" /> Firebase
 
+* <img align="left" alt="Firebase" width="26px" src="https://e7.pngegg.com/pngimages/266/560/png-clipart-python-computer-icons-programmer-javascript-programming-language-python-logo-angle-text-thumbnail.png" /> Python
+
+* <img align="left" alt="Firebase" width="26px" src="https://e7.pngegg.com/pngimages/442/914/png-clipart-docker-logo-icons-logos-emojis-tech-companies-thumbnail.png" /> Docker
+
 * <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML
 
 * <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS
 
 * <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> Javascript
-
-* <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> React
 
 * <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> NodeJS
 
