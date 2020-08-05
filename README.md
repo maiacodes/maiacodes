@@ -1,12 +1,24 @@
 ## 👋 Hi there! I'm Perplexed.
 
+<br>
+
 ### 📈 My Stats:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zobos&hide=stars&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=zobos&hide=stars&count_private=true&show_icons=true)
 
+<br>
+
 ### 📖 My Skills:
 
 * <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> VS Code
+
+* <img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /> Golang
+
+* <img align="left" alt="Discord" width="26px" src="https://e7.pngegg.com/pngimages/982/507/png-clipart-discord-logo-discord-teamspeak-computer-icons-logo-game-buttorn-miscellaneous-video-game.png" /> Discord
+
+* <img align="left" alt="Swift" width="26px" src="https://e7.pngegg.com/pngimages/262/885/png-clipart-swift-programming-language-apple-natural-ecological-food-logo-templates-angle-orange-thumbnail.png" /> Swift
+
+* <img align="left" alt="Firebase" width="26px" src="https://e7.pngegg.com/pngimages/876/977/png-clipart-yellow-folder-firebase-cloud-messaging-computer-icons-google-cloud-messaging-angularjs-github-angle-triangle-thumbnail.png" /> Firebase
 
 * <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML
 
@@ -26,14 +38,14 @@
 
 * <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> GitHub
 
-* <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> Terminal
+* <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> Linux and MacOS
 
 <br />
 
 ### ✨ My Projects:
 
-* <img align="left" alt="" width="26px" src="https://res.cloudinary.com/dat3rkiml/image/upload/v1594812227/logo.png" /> [TweetShift](tweetshift.com)
+* <img align="left" alt="" width="26px" src="https://res.cloudinary.com/dat3rkiml/image/upload/v1594812227/logo.png" /> [TweetShift](https://tweetshift.com)
 
-* <img align="left" alt="" width="26px" src="https://res.cloudinary.com/dat3rkiml/image/upload/v1594939073/HBS/loomBot-logo%20%281%29/profile.png" /> [loomBot](loom.crd.co)
+* <img align="left" alt="" width="26px" src="https://res.cloudinary.com/dat3rkiml/image/upload/v1594939073/HBS/loomBot-logo%20%281%29/profile.png" /> [loomBot](https://loom.crd.co)
 
-* <img align="left" alt="" width="26px" src="https://res.cloudinary.com/dat3rkiml/image/upload/v1596644598/Eutenly/avatar.png" /> [Eutenly](github.com/eutenly)
+* <img align="left" alt="" width="26px" src="https://res.cloudinary.com/dat3rkiml/image/upload/v1596644598/Eutenly/avatar.png" /> [Eutenly](https://github.com/eutenly)
