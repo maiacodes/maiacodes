@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Perplexed.
+## 👋 Hi I'm Maia!
 <!-- <br>
 
 ### 📝 Latest Posts: -->
