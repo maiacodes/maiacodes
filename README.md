@@ -9,7 +9,7 @@
 
 ### 📈 My Stats:
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zobos&hide=stars&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=maiacodes&hide=stars&count_private=true&show_icons=true)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiacodes&hide=stars&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=maiacodes&hide=stars&count_private=true&show_icons=true)
 
 <br>
 
