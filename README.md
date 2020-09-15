@@ -9,7 +9,7 @@
 
 ### 📈 My Stats:
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zobos&hide=stars&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=zobos&hide=stars&count_private=true&show_icons=true)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zobos&hide=stars&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=maiacodes&hide=stars&count_private=true&show_icons=true)
 
 <br>
 
@@ -53,6 +53,4 @@
 
 * <img align="left" alt="" width="26px" src="https://res.cloudinary.com/dat3rkiml/image/upload/v1594812227/logo.png" /> [TweetShift](https://tweetshift.com)
 
-* <img align="left" alt="" width="26px" src="https://res.cloudinary.com/dat3rkiml/image/upload/v1594939073/HBS/loomBot-logo%20%281%29/profile.png" /> [loomBot](https://loom.crd.co)
-
-* <img align="left" alt="" width="26px" src="https://res.cloudinary.com/dat3rkiml/image/upload/v1596644598/Eutenly/avatar.png" /> [Eutenly](https://github.com/eutenly)
+* <img align="left" alt="" width="26px" src="https://avatars3.githubusercontent.com/u/69061415?s=200&v=4" /> [Eutenly](https://github.com/eutenly)
