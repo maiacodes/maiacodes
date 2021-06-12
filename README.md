@@ -10,18 +10,21 @@ When it comes to backend, I have a lot of Golang experience, by far my main and 
  - Backend
    - Golang, Node.JS
    - JSON, GraphQL, REST
-   - PostgreSQL, MongoDB
+   - PostgreSQL, MongoDB, Fauna
+   - Serverless Framework
  - Web Development
    - Vue (especially Nuxt)
    - React (most experience with Gatsby and Next)
    - ✨ _Plain HTML & CSS_ ✨
+   - Jamstack
  - App Development
    - React Native & Ionic
    - Planning to learn Swift 
    - Done a lot of Android Java & Kotlin in the past
- - Sysadmin
+ - Devops
    - Lots of experience with Linux & macOS
    - ✨ _I love Docker_ ✨
+   - CI/CD Pipelines
    - Database configuration and maintenance
    - Experience with AWS, GCP, Azure, OVH, Digitalocean, and Vultr
 
