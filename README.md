@@ -13,7 +13,7 @@ I've been quite into Serverless recently with things like Lambda and Cloud Run, 
  - Backend
    - Golang, Node.JS
    - JSON, GraphQL, REST
-   - PostgreSQL, MongoDB, Fauna
+   - PostgreSQL + CRDB, MongoDB, Fauna, Redis
    - Serverless Framework
  - Web Development
    - Vue (especially Nuxt)
