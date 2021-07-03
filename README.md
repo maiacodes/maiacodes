@@ -32,6 +32,9 @@ I've been quite into Serverless recently with things like Lambda and Cloud Run, 
    - Experience with AWS, GCP, Azure, OVH, Digitalocean, and Vultr
 
 ## Contact me
- - Discord: `Maia#1234`
- - Email: `hi@maia.codes`
- - Twitter: `@returnmaia`
+ - Email: [hi@maia.codes](mailto:hi@maia.codes)
+ - Twitter: [@returnmaia](https://twitter.com/returnmaia)
+ - Telegram: [@maiacodes](https://t.me/maiacodes)
+ - Discord: [Maia#1234](https://discord.com/users/149862827027464193)
+
+
